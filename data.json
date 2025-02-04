@@ -1,0 +1,101 @@
+{
+    "lost_items": [
+        {
+            "id": 1,
+            "name": "Wallet",
+            "description": "Black leather wallet",
+            "location": "Library"
+        },
+        {
+            "id": 2,
+            "name": "Phone",
+            "description": "iPhone 12 with red case",
+            "location": "Cafeteria"
+        },
+        {
+            "id": 3,
+            "name": "Laptop",
+            "description": "Silver MacBook Pro",
+            "location": "Lecture Hall"
+        },
+        {
+            "id": 4,
+            "name": "Headphones",
+            "description": "Bose noise-canceling",
+            "location": "Gym"
+        },
+        {
+            "id": 5,
+            "name": "Notebook",
+            "description": "Blue spiral-bound notebook",
+            "location": "Cafeteria"
+        },
+        {
+            "id": 6,
+            "name": "Vase",
+            "description": "Black colored vase",
+            "location": "Learning Cafe"
+        }
+    ],
+    "found_items": [
+        {
+            "id": 1,
+            "name": "Keys",
+            "description": "Bunch of keys with a car key",
+            "location": "Gym"
+        },
+        {
+            "id": 2,
+            "name": "Water Bottle",
+            "description": "Red sports bottle",
+            "location": "Library"
+        },
+        {
+            "id": 3,
+            "name": "Umbrella",
+            "description": "Black compact umbrella",
+            "location": "Bus Stop"
+        },
+        {
+            "id": 4,
+            "name": "Gloves",
+            "description": "Leather gloves",
+            "location": "Cafeteria"
+        },
+        {
+            "id": 5,
+            "name": "Sunglasses",
+            "description": "Ray-Ban sunglasses",
+            "location": "Park"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Alice",
+            "email": "alice@example.com"
+        },
+        {
+            "id": 2,
+            "name": "Bob",
+            "email": "bob@example.com"
+        },
+        {
+            "id": 3,
+            "name": "Charlie",
+            "email": "charlie@example.com"
+        },
+        {
+            "id": 4,
+            "name": "David",
+            "email": "david@example.com"
+        },
+        {
+            "id": 5,
+            "name": "Eve",
+            "email": "eve@example.com"
+        }
+    ],
+    "claims": [],
+    "notifications": []
+}
